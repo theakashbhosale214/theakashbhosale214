@@ -51,5 +51,5 @@
 
 ## 👯‍♂️ Let's Connect
 
-I'm always open to new collaborations and exciting projects. Reach out to me on [LinkedIn](https://www.linkedin.com/in/akash-bhosale-5a6945217/) or [Gmail](bhosalerakash214@gmail.com), and let's create something amazing together!
+I'm always open to new collaborations and exciting projects. Reach out to me on [LinkedIn](https://www.linkedin.com/in/akash-bhosale-5a6945217/) or [Gmail](mailto:bhosalerakash214@gmail.com), and let's create something amazing together!
 <hr/>
