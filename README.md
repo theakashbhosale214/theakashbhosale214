@@ -40,7 +40,7 @@
 
 ## 🚀 Notable Repositories
 
-<hr/>
+
 - [MyBlog](https://github.com/prajwal-pawar/MyBlog): MyBlog is a blogging web application built using the MERN stack.
 - [FileLink](https://github.com/prajwal-pawar/FileLink): FileLink is a secure encrypted file sharing website built in expressjs.
 - [MyDrive](https://github.com/prajwal-pawar/MyDrive): MyDrive is a file storage web application built using the MERN stack.
@@ -50,6 +50,6 @@
 <hr/>
 
 ## 👯‍♂️ Let's Connect
-<hr/>
+
 I'm always open to new collaborations and exciting projects. Reach out to me on [LinkedIn](https://www.linkedin.com/in/akash-bhosale-5a6945217/) or [Gmail](bhosalerakash214@gmail.com), and let's create something amazing together!
 <hr/>
