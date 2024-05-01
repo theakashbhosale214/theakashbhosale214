@@ -41,11 +41,8 @@
 ## 🚀 Notable Repositories
 
 
-- [MyBlog](https://github.com/prajwal-pawar/MyBlog): MyBlog is a blogging web application built using the MERN stack.
-- [FileLink](https://github.com/prajwal-pawar/FileLink): FileLink is a secure encrypted file sharing website built in expressjs.
-- [MyDrive](https://github.com/prajwal-pawar/MyDrive): MyDrive is a file storage web application built using the MERN stack.
-- [Moviescape](https://github.com/prajwal-pawar/moviescape): Moviescape is a user-friendly IMDB clone developed using React and powered by the OMDB API.
-- [Quicknote](https://github.com/prajwal-pawar/quicknote-tauri): Quicknote is a note-taking software developed using Tauri, React, and Vite. It provides users with a lightweight and efficient platform for creating, organizing, and managing notes seamlessly.
+- [Disease Prediction System](https://github.com/theakashbhosale214/Disease-Prediction-System): Disease Prediction System is a project which will predict diseases according to the symptoms users enter by using ML algorithms.
+
 
 <hr/>
 
