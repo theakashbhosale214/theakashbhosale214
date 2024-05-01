@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-<hr/>
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -36,7 +36,7 @@
 </div>
 
 <br/>
-<hr/>
+
 
 ## 🚀 Notable Repositories
 
@@ -44,9 +44,9 @@
 - [Disease Prediction System](https://github.com/theakashbhosale214/Disease-Prediction-System): Disease Prediction System is a project which will predict diseases according to the symptoms users enter by using ML algorithms.
 
 
-<hr/>
+
 
 ## 👯‍♂️ Let's Connect
 
 I'm always open to new collaborations and exciting projects. Reach out to me on [LinkedIn](https://www.linkedin.com/in/akash-bhosale-5a6945217/) or [Gmail](mailto:bhosalerakash214@gmail.com), and let's create something amazing together!
-<hr/>
+
