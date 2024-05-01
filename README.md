@@ -38,7 +38,7 @@
 <br/>
 
 
-## 🚀 Notable Repositories
+<h2 align="center">🚀 Notable Repositories </h2>
 
 
 - [Disease Prediction System](https://github.com/theakashbhosale214/Disease-Prediction-System): Disease Prediction System is a project which will predict diseases according to the symptoms users enter by using ML algorithms.
@@ -46,7 +46,7 @@
 
 
 
-## 👯‍♂️ Let's Connect
+<h2 align="center">👯‍♂️ Let's Connect  </h2>
 
 I'm always open to new collaborations and exciting projects. Reach out to me on [LinkedIn](https://www.linkedin.com/in/akash-bhosale-5a6945217/) or [Gmail](mailto:bhosalerakash214@gmail.com), and let's create something amazing together!
 
